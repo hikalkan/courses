@@ -101,7 +101,7 @@
           "sampleRate" : 44100,
           "bitDepth" : 16,
           "numChannels" : 2,
-          "integratedLUFS" : -1.79769313486232e+308,
+          "integratedLUFS" : 0.0,
           "peakLevel" : 0.0,
           "metaData" : ""
         }
@@ -148,7 +148,7 @@
           "sampleRate" : 44100,
           "bitDepth" : 16,
           "numChannels" : 2,
-          "integratedLUFS" : -1.79769313486232e+308,
+          "integratedLUFS" : 0.0,
           "peakLevel" : 0.0,
           "metaData" : ""
         }
@@ -156,10 +156,33 @@
       "metadata" : {
         "timeAdded" : "20200802T201932.083626"
       }
+    },
+    {
+      "id" : 4,
+      "src" : "D:\\Camtasia\\Video-Records\\Abp-Tutorial\\Images\\Part-2 (Time 0_12_04;03).png",
+      "rect" : [0, 0, 1920, 1080],
+      "lastMod" : "20200802T205813",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1920, 1080],
+          "sampleRate" : 0,
+          "bitDepth" : 32,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20200802T205846.615658"
+      }
     }
   ],
   "timeline" : {
-    "id" : 4,
+    "id" : 5,
     "sceneTrack" : {
       "scenes" : [
         {
@@ -172,7 +195,7 @@
                 "trackIndex" : 0,
                 "medias" : [
                   {
-                    "id" : 5,
+                    "id" : 6,
                     "_type" : "StitchedMedia",
                     "minMediaStart" : 0,
                     "attributes" : {
@@ -403,11 +426,11 @@
                     },
                     "medias" : [
                         {
-                          "id" : 6,
+                          "id" : 7,
                           "_type" : "UnifiedMedia",
                           "video" : 
                               {
-                                "id" : 7,
+                                "id" : 8,
                                 "_type" : "ScreenVMFile",
                                 "src" : 1,
                                 "trackNumber" : 0,
@@ -440,7 +463,7 @@
                               },
                           "audio" : 
                               {
-                                "id" : 8,
+                                "id" : 9,
                                 "_type" : "AMFile",
                                 "src" : 1,
                                 "trackNumber" : 2,
@@ -474,11 +497,11 @@
                           }
                         },
                         {
-                          "id" : 9,
+                          "id" : 10,
                           "_type" : "UnifiedMedia",
                           "video" : 
                               {
-                                "id" : 10,
+                                "id" : 11,
                                 "_type" : "ScreenVMFile",
                                 "src" : 1,
                                 "trackNumber" : 0,
@@ -511,7 +534,7 @@
                               },
                           "audio" : 
                               {
-                                "id" : 11,
+                                "id" : 12,
                                 "_type" : "AMFile",
                                 "src" : 1,
                                 "trackNumber" : 2,
@@ -607,7 +630,7 @@
                     }
                   },
                   {
-                    "id" : 12,
+                    "id" : 13,
                     "_type" : "StitchedMedia",
                     "minMediaStart" : 0,
                     "attributes" : {
@@ -624,11 +647,11 @@
                     },
                     "medias" : [
                         {
-                          "id" : 13,
+                          "id" : 14,
                           "_type" : "UnifiedMedia",
                           "video" : 
                               {
-                                "id" : 14,
+                                "id" : 15,
                                 "_type" : "ScreenVMFile",
                                 "src" : 2,
                                 "trackNumber" : 0,
@@ -661,7 +684,7 @@
                               },
                           "audio" : 
                               {
-                                "id" : 15,
+                                "id" : 16,
                                 "_type" : "AMFile",
                                 "src" : 2,
                                 "trackNumber" : 2,
@@ -695,11 +718,11 @@
                           }
                         },
                         {
-                          "id" : 16,
+                          "id" : 17,
                           "_type" : "UnifiedMedia",
                           "video" : 
                               {
-                                "id" : 17,
+                                "id" : 18,
                                 "_type" : "ScreenVMFile",
                                 "src" : 2,
                                 "trackNumber" : 0,
@@ -732,7 +755,7 @@
                               },
                           "audio" : 
                               {
-                                "id" : 18,
+                                "id" : 19,
                                 "_type" : "AMFile",
                                 "src" : 2,
                                 "trackNumber" : 2,
@@ -766,11 +789,11 @@
                           }
                         },
                         {
-                          "id" : 19,
+                          "id" : 20,
                           "_type" : "UnifiedMedia",
                           "video" : 
                               {
-                                "id" : 20,
+                                "id" : 21,
                                 "_type" : "ScreenVMFile",
                                 "src" : 2,
                                 "trackNumber" : 0,
@@ -803,7 +826,7 @@
                               },
                           "audio" : 
                               {
-                                "id" : 21,
+                                "id" : 22,
                                 "_type" : "AMFile",
                                 "src" : 2,
                                 "trackNumber" : 2,
@@ -854,7 +877,7 @@
                     }
                   },
                   {
-                    "id" : 22,
+                    "id" : 23,
                     "_type" : "StitchedMedia",
                     "minMediaStart" : 0,
                     "attributes" : {
@@ -941,11 +964,11 @@
                     },
                     "medias" : [
                         {
-                          "id" : 23,
+                          "id" : 24,
                           "_type" : "UnifiedMedia",
                           "video" : 
                               {
-                                "id" : 24,
+                                "id" : 25,
                                 "_type" : "ScreenVMFile",
                                 "src" : 3,
                                 "trackNumber" : 0,
@@ -978,7 +1001,7 @@
                               },
                           "audio" : 
                               {
-                                "id" : 25,
+                                "id" : 26,
                                 "_type" : "AMFile",
                                 "src" : 3,
                                 "trackNumber" : 2,
@@ -1016,11 +1039,11 @@
                           }
                         },
                         {
-                          "id" : 26,
+                          "id" : 27,
                           "_type" : "UnifiedMedia",
                           "video" : 
                               {
-                                "id" : 27,
+                                "id" : 28,
                                 "_type" : "ScreenVMFile",
                                 "src" : 3,
                                 "trackNumber" : 0,
@@ -1053,7 +1076,7 @@
                               },
                           "audio" : 
                               {
-                                "id" : 28,
+                                "id" : 29,
                                 "_type" : "AMFile",
                                 "src" : 3,
                                 "trackNumber" : 2,
@@ -1124,7 +1147,7 @@
                 "trackIndex" : 1,
                 "medias" : [
                   {
-                    "id" : 29,
+                    "id" : 30,
                     "_type" : "StitchedMedia",
                     "minMediaStart" : 0,
                     "attributes" : {
@@ -1139,7 +1162,7 @@
                     },
                     "medias" : [
                         {
-                          "id" : 30,
+                          "id" : 31,
                           "_type" : "AMFile",
                           "src" : 1,
                           "trackNumber" : 1,
@@ -1165,7 +1188,7 @@
                           }
                         },
                         {
-                          "id" : 31,
+                          "id" : 32,
                           "_type" : "AMFile",
                           "src" : 1,
                           "trackNumber" : 1,
@@ -1207,7 +1230,7 @@
                     }
                   },
                   {
-                    "id" : 32,
+                    "id" : 33,
                     "_type" : "StitchedMedia",
                     "minMediaStart" : 0,
                     "attributes" : {
@@ -1222,7 +1245,7 @@
                     },
                     "medias" : [
                         {
-                          "id" : 33,
+                          "id" : 34,
                           "_type" : "AMFile",
                           "src" : 2,
                           "trackNumber" : 1,
@@ -1248,7 +1271,7 @@
                           }
                         },
                         {
-                          "id" : 34,
+                          "id" : 35,
                           "_type" : "AMFile",
                           "src" : 2,
                           "trackNumber" : 1,
@@ -1274,7 +1297,7 @@
                           }
                         },
                         {
-                          "id" : 35,
+                          "id" : 36,
                           "_type" : "AMFile",
                           "src" : 2,
                           "trackNumber" : 1,
@@ -1316,7 +1339,7 @@
                     }
                   },
                   {
-                    "id" : 36,
+                    "id" : 37,
                     "_type" : "StitchedMedia",
                     "minMediaStart" : 0,
                     "attributes" : {
@@ -1331,7 +1354,7 @@
                     },
                     "medias" : [
                         {
-                          "id" : 37,
+                          "id" : 38,
                           "_type" : "AMFile",
                           "src" : 3,
                           "trackNumber" : 1,
@@ -1357,7 +1380,7 @@
                           }
                         },
                         {
-                          "id" : 38,
+                          "id" : 39,
                           "_type" : "AMFile",
                           "src" : 3,
                           "trackNumber" : 1,
@@ -1403,6 +1426,30 @@
               {
                 "trackIndex" : 2,
                 "medias" : [
+                  {
+                    "id" : 40,
+                    "_type" : "IMFile",
+                    "src" : 4,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 120,
+                    "attributes" : {
+                      "ident" : "Part-2 (Time 0_12_04;03)"
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 21723,
+                    "duration" : 30,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
                 ]
               },
               {
@@ -1477,7 +1524,7 @@
     "backgroundColor" : [ 0, 0, 0, 255]
   },
   "metadata" : {
-    "AutoSaveFile" : "",
+    "AutoSaveFile" : "C:\\Users\\halil\\AppData\\Local\\TechSmith\\Camtasia Studio\\19.0\\Auto-Saves\\Part-2b178e35.autosave.tscproj",
     "CanvasZoom" : 100,
     "Date" : "2020-08-02 09:50:19 PM",
     "IsAutoSave" : "0",
