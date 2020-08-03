@@ -36,3 +36,10 @@ In brief;
 
 -----------
 
+# Part-4
+
+In this part, I will show how to create integration tests for the application.
+
+The startup project template comes with pre-configured for unit and integration tests, so you don't have to deal with creating the test environment.
+
+The test projects are configured to use **SQLite in-memory** as the database. A separate database instance is created and seeded (with the data seed system) to prepare a fresh database for every test.
