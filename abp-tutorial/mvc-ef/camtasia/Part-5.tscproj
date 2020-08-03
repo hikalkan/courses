@@ -54,7 +54,7 @@
           "sampleRate" : 44100,
           "bitDepth" : 16,
           "numChannels" : 2,
-          "integratedLUFS" : -1.79769313486232e+308,
+          "integratedLUFS" : 0.0,
           "peakLevel" : 0.0,
           "metaData" : ""
         }
@@ -101,7 +101,7 @@
           "sampleRate" : 44100,
           "bitDepth" : 16,
           "numChannels" : 2,
-          "integratedLUFS" : -1.79769313486232e+308,
+          "integratedLUFS" : 0.0,
           "peakLevel" : 0.0,
           "metaData" : ""
         }
@@ -1210,7 +1210,7 @@
     "Date" : "2020-08-03 01:49:02 PM",
     "IsAutoSave" : "0",
     "Language" : "ENU",
-    "ProfileName" : "",
+    "ProfileName" : "MP4 only (up to 1080p)",
     "ProjectDimensionsChanged" : "1",
     "Title" : "Part-5",
     "audioNarrationNotes" : "",
